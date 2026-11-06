@@ -158,6 +158,10 @@ The intended network parameters were:
 | Default Gateway | 10.0.0.1 |
 | DNS Server | 8.8.8.8 |
 
+
+![NAT Network](02%20-NatNetwork.png)
+
+
 Using a consistent address makes it easier to identify the Kali machine during subsequent laboratory exercises and when recording network activity.
 
 ### Step 6: Creating a Recovery Snapshot
@@ -192,6 +196,8 @@ The expected configuration includes:
 - *DNS:* 8.8.8.8
 
 Actual command output and screenshots should be used as evidence of successful verification.
+
+
 
 ## 8. Challenges and Resolutions
 
