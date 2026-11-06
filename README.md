@@ -90,8 +90,6 @@ The network is designed to accommodate more virtual machines in later exercises.
 
 
 
-[#https://github.com/princediamond00/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/01%20Oracle%20VirtualBox%20Manager.png#SCREENSHOT]
-
 
 Note: Confirm that the processor, memory allocation and network values mat#ch your actual setup before publishing.
 
