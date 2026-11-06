@@ -88,7 +88,7 @@ The network is designed to accommodate more virtual machines in later exercises.
 | Reserved Range for Future VMs | 10.0.0.3–10.0.0.99 |
 
 
-
+[01 Oracle VirtualBox Manager.png]
 
 
 Note: Confirm that the processor, memory allocation and network values mat#ch your actual setup before publishing.
