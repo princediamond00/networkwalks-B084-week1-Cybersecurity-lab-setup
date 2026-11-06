@@ -46,7 +46,7 @@ The key goals of this setup are to:
 - Document the complete setup process.
 - Prepare the environment for future cybersecurity projects.
 
----
+
 
 ## 3. Purpose of the Laboratory
 
