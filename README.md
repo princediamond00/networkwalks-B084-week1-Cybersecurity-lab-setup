@@ -122,6 +122,9 @@ The network settings were defined as follows:
 
 This networking mode was chosen because it allows multiple virtual machines attached to the same NAT Network to communicate with one another while  also supporting outbound connectivity.
 
+![NAT Network](02%20-NatNetwork.png)
+
+
 This arrangement provides the networking foundation for future attacker and target machines.
 
 ### Step 4: Importing Kali Linux
@@ -159,7 +162,7 @@ The intended network parameters were:
 | DNS Server | 8.8.8.8 |
 
 
-![NAT Network](02%20-NatNetwork.png)
+![Kali Network](03%20kali%20network.png)
 
 
 Using a consistent address makes it easier to identify the Kali machine during subsequent laboratory exercises and when recording network activity.
@@ -197,6 +200,16 @@ The expected configuration includes:
 
 Actual command output and screenshots should be used as evidence of successful verification.
 
+![Kali](04%20kali.png)
+
+
+![Step 5](05.png)
+
+
+![Step 6](06.png)
+
+
+![Step 7](07.png)
 
 
 ## 8. Challenges and Resolutions
