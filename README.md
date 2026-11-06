@@ -87,7 +87,13 @@ The network is designed to accommodate more virtual machines in later exercises.
 | DNS Server | 8.8.8.8 |
 | Reserved Range for Future VMs | 10.0.0.3–10.0.0.99 |
 
-Note: Confirm that the processor, memory allocation and network values match your actual setup before publishing.
+
+
+
+[#https://github.com/princediamond00/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/01%20Oracle%20VirtualBox%20Manager.png#SCREENSHOT]
+
+
+Note: Confirm that the processor, memory allocation and network values mat#ch your actual setup before publishing.
 
 ## 6. Implementation Procedure
 
