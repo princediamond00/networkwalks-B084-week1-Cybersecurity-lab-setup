@@ -241,10 +241,10 @@ Any assessment, scanning or testing must be limited to systems that belong to th
 
 ## 12. Author Information
 
-*Name:* Emeka Chukwuemeka Prince  
-*Field:* Computer Science  
-*Area of Interest:* Cybersecurity and Ethical Hacking
-*LinkedIn:* [https://www.linkedin.com/in/chukwuemeka-emeka-477404447?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+**Name:** Emeka Chukwuemeka Prince  
+**Field:** Computer Science  
+**Area of Interest:** Cybersecurity and Ethical Hacking
+**LinkedIn:** [https://www.linkedin.com/in/chukwuemeka-emeka-477404447?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 
 ## 13. Assignment Information
